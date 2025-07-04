@@ -5,7 +5,7 @@ const jogadores = [
     { nome: "Luis Suárez", imagem: "imagens/luis-suarez.jpg" },
     { nome: "Ronaldinho Gaúcho", imagem: "imagens/ronaldinho-gaucho.jpg" },
     { nome: "Cristiano Ronaldo", imagem: "imagens/cr7.jpg" },
-    { nome: "Lionel Messi", imagem: "imagens/Lionel_Messi.jpg" },
+    { nome: "Lionel Messi", imagem: "imagens/Lionel_Messi.JPG" },
     { nome: "Roberto Baggio", imagem: "imagens/roberto-baggio.jpg" },
     { nome: "Gerd Müller", imagem: "imagens/gerd-muller.jpg" },
     { nome: "Pele", imagem: "imagens/Pelé_1960.jpg" },
