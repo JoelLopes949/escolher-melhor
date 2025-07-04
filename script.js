@@ -2,7 +2,7 @@ const jogadores = [
     { nome: "Ronaldo", imagem: "imagens/764_ronaldo.jpg" },
     { nome: "Van Nistelrooy", imagem: "imagens/van-nistelrooy.jpg" },
     { nome: "Peter Crouch", imagem: "imagens/peter-crouch.jpg" },
-    { nome: "Luis Suárez", imagem: "imagens/luis-suarez.png" },
+    { nome: "Luis Suárez", imagem: "imagens/luis-suarez.jpg" },
     { nome: "Ronaldinho Gaúcho", imagem: "imagens/ronaldinho-gaucho.jpg" },
     { nome: "Cristiano Ronaldo", imagem: "imagens/cr7.jpg" },
     { nome: "Lionel Messi", imagem: "imagens/Lionel_Messi.jpg" },
